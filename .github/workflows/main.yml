@@ -11,4 +11,4 @@ jobs:
 
   steps:
    -name: Show current working directory
-    run: pwd
+    run:pwd
